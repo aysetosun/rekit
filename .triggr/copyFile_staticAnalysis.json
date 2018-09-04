@@ -10,12 +10,12 @@
         {
             "Type": "Email",
             "Emails": [
-                "ozdemirali@itu.edu.tr"
+                "aystsn@gmail.com"
             ]
         },
         {
             "Type": "GitHubIssue",
-            "Assign": "lyzerk"
+            "Assign": "aysetosun"
         }
     ],
     "Metrics": {
